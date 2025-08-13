@@ -1,0 +1,19 @@
+GAME_ID,TEAM_ID,TEAM_ABBREVIATION,TEAM_CITY,PLAYER_ID,PLAYER_NAME,NICKNAME,START_POSITION,COMMENT,MIN,FGM,FGA,FG_PCT,FG3M,FG3A,FG3_PCT,FTM,FTA,FT_PCT,OREB,DREB,REB,AST,STL,BLK,TO,PF,PTS,PLUS_MINUS
+22401012,1610612749,MIL,Milwaukee,1629018,Gary Trent Jr.,Gary,,,25:58,3.0,9.0,0.333,1.0,4.0,0.25,3.0,3.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,10.0,-16.0
+22400760,1610612749,MIL,Milwaukee,1629018,Gary Trent Jr.,Gary,,,28:29,3.0,7.0,0.429,1.0,5.0,0.2,0.0,2.0,0.0,0.0,2.0,2.0,1.0,0.0,1.0,1.0,3.0,7.0,-19.0
+22400760,1610612749,MIL,Milwaukee,1626171,Bobby Portis,Bobby,,,26:23,3.0,11.0,0.273,0.0,4.0,0.0,1.0,2.0,0.5,1.0,6.0,7.0,1.0,1.0,0.0,1.0,6.0,7.0,-10.0
+22400760,1610612749,MIL,Milwaukee,1631260,AJ Green,AJ,,,21:49,2.0,8.0,0.25,1.0,4.0,0.25,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,3.0,5.0,-15.0
+22400760,1610612749,MIL,Milwaukee,1631157,Ryan Rollins,Ryan,,,6:36,1.0,2.0,0.5,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,-3.0
+22400760,1610612749,MIL,Milwaukee,1629645,Kevin Porter Jr.,Kevin,,,10:09,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0,1.0,0.0,2.0,1.0,2.0,-2.0
+22401012,1610612749,MIL,Milwaukee,1629645,Kevin Porter Jr.,Kevin,,,15:00,1.0,4.0,0.25,0.0,2.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,2.0,1.0,0.0,1.0,1.0,2.0,-10.0
+22401012,1610612749,MIL,Milwaukee,1631260,AJ Green,AJ,,,14:12,0.0,2.0,0.0,0.0,2.0,0.0,1.0,2.0,0.5,0.0,2.0,2.0,0.0,1.0,0.0,1.0,2.0,1.0,-5.0
+22400760,1610612749,MIL,Milwaukee,1626192,Pat Connaughton,Pat,,,3:32,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,-7.0
+22401012,1610612749,MIL,Milwaukee,1631157,Ryan Rollins,Ryan,,,5:27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,-1.0
+22400760,1610612749,MIL,Milwaukee,1641753,Chris Livingston,Chris,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+22400760,1610612749,MIL,Milwaukee,1630579,Jericho Sims,Jericho,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+22400760,1610612749,MIL,Milwaukee,1641890,Tyler Smith,Tyler,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+22401012,1610612749,MIL,Milwaukee,1626192,Pat Connaughton,Pat,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+22401012,1610612749,MIL,Milwaukee,1641748,Andre Jackson Jr.,Andre,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+22401012,1610612749,MIL,Milwaukee,1641753,Chris Livingston,Chris,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+22401012,1610612749,MIL,Milwaukee,1631250,Pete Nance,Pete,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+22401012,1610612749,MIL,Milwaukee,1641890,Tyler Smith,Tyler,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,

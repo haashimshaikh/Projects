@@ -1,0 +1,25 @@
+GAME_ID,TEAM_ID,TEAM_ABBREVIATION,TEAM_CITY,PLAYER_ID,PLAYER_NAME,NICKNAME,START_POSITION,COMMENT,MIN,FGM,FGA,FG_PCT,FG3M,FG3A,FG3_PCT,FTM,FTA,FT_PCT,OREB,DREB,REB,AST,STL,BLK,TO,PF,PTS,PLUS_MINUS
+22401163,1610612759,SAS,San Antonio,1629640,Keldon Johnson,Keldon,,,30:32,8.0,17.0,0.471,1.0,5.0,0.2,4.0,4.0,1.0,3.0,5.0,8.0,2.0,1.0,0.0,1.0,3.0,21.0,20.0
+22401086,1610612759,SAS,San Antonio,1629640,Keldon Johnson,Keldon,,,21:26,8.0,13.0,0.615,2.0,5.0,0.4,1.0,1.0,1.0,2.0,1.0,3.0,2.0,1.0,0.0,2.0,1.0,19.0,-28.0
+22401086,1610612759,SAS,San Antonio,1630572,Sandro Mamukelashvili,Sandro,,,25:04,6.0,10.0,0.6,1.0,4.0,0.25,1.0,2.0,0.5,2.0,9.0,11.0,4.0,0.0,1.0,2.0,3.0,14.0,-20.0
+22401163,1610612759,SAS,San Antonio,1630577,Julian Champagnie,Julian,,,29:19,4.0,9.0,0.444,3.0,7.0,0.429,3.0,3.0,1.0,0.0,4.0,4.0,4.0,0.0,2.0,2.0,3.0,14.0,20.0
+22401086,1610612759,SAS,San Antonio,1631103,Malaki Branham,Malaki,,,12:52,4.0,8.0,0.5,1.0,3.0,0.333,4.0,4.0,1.0,0.0,1.0,1.0,3.0,0.0,0.0,1.0,2.0,13.0,-3.0
+22401086,1610612759,SAS,San Antonio,1630577,Julian Champagnie,Julian,,,26:43,4.0,10.0,0.4,3.0,7.0,0.429,0.0,0.0,0.0,0.0,5.0,5.0,2.0,0.0,1.0,2.0,1.0,11.0,-19.0
+22401163,1610612759,SAS,San Antonio,1630572,Sandro Mamukelashvili,Sandro,,,22:39,3.0,9.0,0.333,1.0,6.0,0.167,4.0,4.0,1.0,3.0,5.0,8.0,1.0,0.0,1.0,0.0,1.0,11.0,10.0
+22401086,1610612759,SAS,San Antonio,1629162,Jordan McLaughlin,Jordan,,,20:56,3.0,4.0,0.75,3.0,4.0,0.75,0.0,0.0,0.0,0.0,1.0,1.0,4.0,0.0,0.0,1.0,2.0,9.0,-5.0
+22400269,1610612759,SAS,San Antonio,1631104,Blake Wesley,Blake,,,13:37,3.0,5.0,0.6,1.0,2.0,0.5,0.0,0.0,0.0,1.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,7.0,8.0
+22400269,1610612759,SAS,San Antonio,1631103,Malaki Branham,Malaki,,,12:51,2.0,5.0,0.4,0.0,2.0,0.0,2.0,2.0,1.0,1.0,1.0,2.0,1.0,0.0,0.0,1.0,2.0,6.0,3.0
+22400269,1610612759,SAS,San Antonio,1630572,Sandro Mamukelashvili,Sandro,,,16:31,2.0,6.0,0.333,1.0,5.0,0.2,0.0,0.0,0.0,1.0,7.0,8.0,1.0,1.0,0.0,0.0,1.0,5.0,14.0
+22401086,1610612759,SAS,San Antonio,1631104,Blake Wesley,Blake,,,26:51,2.0,5.0,0.4,0.0,2.0,0.0,1.0,4.0,0.25,1.0,1.0,2.0,2.0,2.0,0.0,2.0,2.0,5.0,-30.0
+22401163,1610612759,SAS,San Antonio,1631104,Blake Wesley,Blake,,,19:17,2.0,3.0,0.667,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0,0.0,1.0,0.0,2.0,4.0,14.0
+22400269,1610612759,SAS,San Antonio,1630200,Tre Jones,Tre,,,23:04,1.0,3.0,0.333,0.0,2.0,0.0,0.0,0.0,0.0,3.0,3.0,6.0,3.0,0.0,0.0,0.0,1.0,2.0,6.0
+22400269,1610612759,SAS,San Antonio,1628380,Zach Collins,Zach,,,12:09,0.0,4.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,3.0,4.0,1.0,0.0,1.0,0.0,2.0,0.0,-8.0
+22401086,1610612759,SAS,San Antonio,1629646,Charles Bassey,Charles,,,9:54,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,-7.0
+22400269,1610612759,SAS,San Antonio,1629646,Charles Bassey,Charles,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+22400269,1610612759,SAS,San Antonio,1631321,Sidy Cissoko,Sidy,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+22401086,1610612759,SAS,San Antonio,202687,Bismack Biyombo,Bismack,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+22401163,1610612759,SAS,San Antonio,1629646,Charles Bassey,Charles,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+22401163,1610612759,SAS,San Antonio,1631103,Malaki Branham,Malaki,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+22401163,1610612759,SAS,San Antonio,1630561,David Duke Jr.,David,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+22401163,1610612759,SAS,San Antonio,1631127,Harrison Ingram,Harrison,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+22401163,1610612759,SAS,San Antonio,1629162,Jordan McLaughlin,Jordan,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,75 @@
+GAME_ID,TEAM_ID,TEAM_ABBREVIATION,TEAM_CITY,PLAYER_ID,PLAYER_NAME,NICKNAME,START_POSITION,COMMENT,MIN,FGM,FGA,FG_PCT,FG3M,FG3A,FG3_PCT,FTM,FTA,FT_PCT,OREB,DREB,REB,AST,STL,BLK,TO,PF,PTS,PLUS_MINUS
+12400056,1610612747,LAL,Los Angeles,1642261,Dalton Knecht,Dalton,,,21:25,6.0,15.0,0.4,5.0,13.0,0.385,2.0,2.0,1.0,1.0,1.0,2.0,0.0,2.0,0.0,1.0,1.0,19.0,-3.0
+22400731,1610612747,LAL,Los Angeles,1629216,Gabe Vincent,Gabe,,,29:33,5.0,8.0,0.625,5.0,8.0,0.625,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,3.0,15.0,-3.0
+22400408,1610612747,LAL,Los Angeles,1642261,Dalton Knecht,Dalton,,,25:18,5.0,9.0,0.556,1.0,5.0,0.2,2.0,2.0,1.0,2.0,5.0,7.0,2.0,0.0,1.0,0.0,0.0,13.0,13.0
+22400644,1610612747,LAL,Los Angeles,1642261,Dalton Knecht,Dalton,,,23:19,5.0,9.0,0.556,3.0,7.0,0.429,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,13.0,-10.0
+1322400006,1610612747,LAL,Los Angeles,1642398,Sean East II,Sean,,,22:45,5.0,9.0,0.556,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,3.0,2.0,0.0,0.0,3.0,3.0,10.0,-18.0
+1322400006,1610612747,LAL,Los Angeles,1642396,Blake Hinson,Blake,,,27:13,2.0,10.0,0.2,2.0,10.0,0.2,2.0,4.0,0.5,0.0,5.0,5.0,1.0,2.0,0.0,2.0,7.0,8.0,-22.0
+22400644,1610612747,LAL,Los Angeles,1629216,Gabe Vincent,Gabe,,,24:42,3.0,8.0,0.375,1.0,6.0,0.167,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,1.0,4.0,7.0,1.0
+1322400006,1610612747,LAL,Los Angeles,1641941,Vincent Valerio-Bodon,Vincent,,,17:36,2.0,8.0,0.25,0.0,5.0,0.0,2.0,2.0,1.0,1.0,3.0,4.0,0.0,2.0,1.0,0.0,3.0,6.0,-13.0
+12400074,1610612747,LAL,Los Angeles,1642422,Armel Traoré,Armel,,,27:40,2.0,8.0,0.25,0.0,3.0,0.0,2.0,4.0,0.5,2.0,5.0,7.0,1.0,1.0,0.0,1.0,2.0,6.0,-39.0
+12400074,1610612747,LAL,Los Angeles,1641721,Maxwell Lewis,Maxwell,,,33:36,2.0,10.0,0.2,0.0,3.0,0.0,2.0,2.0,1.0,1.0,5.0,6.0,0.0,1.0,0.0,1.0,1.0,6.0,-55.0
+22400408,1610612747,LAL,Los Angeles,1629216,Gabe Vincent,Gabe,,,29:21,2.0,7.0,0.286,1.0,6.0,0.167,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0,1.0,3.0,5.0,3.0
+22400731,1610612747,LAL,Los Angeles,1629020,Jarred Vanderbilt,Jarred,,,20:42,2.0,2.0,1.0,0.0,0.0,0.0,1.0,2.0,0.5,4.0,10.0,14.0,3.0,1.0,1.0,2.0,4.0,5.0,-2.0
+12400056,1610612747,LAL,Los Angeles,1629637,Jaxson Hayes,Jaxson,,,19:01,2.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0,2.0,2.0,1.0,0.0,2.0,4.0,-15.0
+12400074,1610612747,LAL,Los Angeles,1630658,Colin Castleton,Colin,,,27:14,2.0,3.0,0.667,0.0,0.0,0.0,0.0,0.0,0.0,1.0,4.0,5.0,1.0,0.0,1.0,5.0,4.0,4.0,-45.0
+22400408,1610612747,LAL,Los Angeles,1629629,Cam Reddish,Cam,,,22:30,2.0,4.0,0.5,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,2.0,2.0,0.0,1.0,2.0,4.0,7.0
+22400731,1610612747,LAL,Los Angeles,1631132,Christian Koloko,Christian,,,3:50,2.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,1.0,4.0,1.0
+12400056,1610612747,LAL,Los Angeles,1629629,Cam Reddish,Cam,,,8:06,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,3.0,-9.0
+22401117,1610612747,LAL,Los Angeles,1629216,Gabe Vincent,Gabe,,,17:25,1.0,5.0,0.2,1.0,5.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,3.0,-14.0
+12400056,1610612747,LAL,Los Angeles,1642355,Bronny James,Bronny,,,9:07,1.0,5.0,0.2,0.0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,2.0,0.0
+12400056,1610612747,LAL,Los Angeles,1630658,Colin Castleton,Colin,,,7:52,0.0,2.0,0.0,0.0,0.0,0.0,2.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,2.0,3.0
+12400056,1610612747,LAL,Los Angeles,1641721,Maxwell Lewis,Maxwell,,,6:46,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0
+22400408,1610612747,LAL,Los Angeles,1631132,Christian Koloko,Christian,,,8:54,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,2.0,6.0,0.0,0.0,1.0,1.0,0.0,2.0,7.0
+22400644,1610612747,LAL,Los Angeles,1629020,Jarred Vanderbilt,Jarred,,,12:27,1.0,2.0,0.5,0.0,1.0,0.0,0.0,0.0,0.0,2.0,2.0,4.0,2.0,3.0,0.0,0.0,3.0,2.0,6.0
+22400731,1610612747,LAL,Los Angeles,1629003,Shake Milton,Shake,,,15:13,1.0,3.0,0.333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,2.0,1.0,1.0,1.0,1.0,2.0,8.0
+22401117,1610612747,LAL,Los Angeles,1627827,Dorian Finney-Smith,Dorian,,,29:23,1.0,6.0,0.167,0.0,5.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,4.0,2.0,-14.0
+22401117,1610612747,LAL,Los Angeles,1629020,Jarred Vanderbilt,Jarred,,,12:38,1.0,3.0,0.333,0.0,1.0,0.0,0.0,0.0,0.0,3.0,4.0,7.0,0.0,0.0,0.0,0.0,1.0,2.0,-7.0
+1322400006,1610612747,LAL,Los Angeles,1642437,Mohamed Diarra,Mohamed,,,13:42,0.0,2.0,0.0,0.0,1.0,0.0,1.0,4.0,0.25,0.0,6.0,6.0,2.0,1.0,3.0,1.0,0.0,1.0,-9.0
+12400056,1610612747,LAL,Los Angeles,1641720,Jalen Hood-Schifino,Jalen,,,13:22,0.0,6.0,0.0,0.0,0.0,0.0,1.0,2.0,0.5,1.0,3.0,4.0,3.0,0.0,0.0,1.0,0.0,1.0,-6.0
+1322400006,1610612747,LAL,Los Angeles,1642439,Quincy Olivari,Quincy,,,12:05,0.0,6.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,1.0,1.0,0.0,1.0,0.0,-9.0
+1322400006,1610612747,LAL,Los Angeles,1642438,Grayson Murphy,Grayson,,,4:07,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,4.0,1.0,1.0,0.0,0.0,0.0,0.0,5.0
+12400056,1610612747,LAL,Los Angeles,1631108,Max Christie,Max,,,16:12,0.0,3.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,-10.0
+12400056,1610612747,LAL,Los Angeles,1629216,Gabe Vincent,Gabe,,,14:53,0.0,5.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,-5.0
+22400644,1610612747,LAL,Los Angeles,1629637,Jaxson Hayes,Jaxson,,,11:45,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,3.0,1.0,0.0,0.0,1.0,1.0,0.0,-8.0
+22400644,1610612747,LAL,Los Angeles,1631132,Christian Koloko,Christian,,,0:25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+22401117,1610612747,LAL,Los Angeles,1630692,Jordan Goodwin,Jordan,,,14:16,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,3.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0
+1322400006,1610612747,LAL,Los Angeles,1642355,Bronny James,Bronny,,DND - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+1322400006,1610612747,LAL,Los Angeles,1630667,Kyle Mangas,Kyle,,DND - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+1322400006,1610612747,LAL,Los Angeles,1642053,Joirdon Nicholas,Joirdon,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+12400056,1610612747,LAL,Los Angeles,1630692,Jordan Goodwin,Jordan,,DND - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+12400056,1610612747,LAL,Los Angeles,1630283,Kylor Kelley,Kylor,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+12400056,1610612747,LAL,Los Angeles,1631132,Christian Koloko,Christian,,DND - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+12400056,1610612747,LAL,Los Angeles,1642439,Quincy Olivari,Quincy,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+12400056,1610612747,LAL,Los Angeles,1642422,Armel Traoré,Armel,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+12400056,1610612747,LAL,Los Angeles,1629020,Jarred Vanderbilt,Jarred,,DND - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+12400056,1610612747,LAL,Los Angeles,1626174,Christian Wood,Christian,,DND - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+12400074,1610612747,LAL,Los Angeles,1631108,Max Christie,Max,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+12400074,1610612747,LAL,Los Angeles,203076,Anthony Davis,Anthony,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+12400074,1610612747,LAL,Los Angeles,1629060,Rui Hachimura,Rui,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+12400074,1610612747,LAL,Los Angeles,2544,LeBron James,LeBron,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+12400074,1610612747,LAL,Los Angeles,1642261,Dalton Knecht,Dalton,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+12400074,1610612747,LAL,Los Angeles,1631132,Christian Koloko,Christian,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+12400074,1610612747,LAL,Los Angeles,1642438,Grayson Murphy,Grayson,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+12400074,1610612747,LAL,Los Angeles,1630559,Austin Reaves,Austin,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+12400074,1610612747,LAL,Los Angeles,1626156,D'Angelo Russell,D'Angelo,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+12400074,1610612747,LAL,Los Angeles,1629020,Jarred Vanderbilt,Jarred,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+12400074,1610612747,LAL,Los Angeles,1629216,Gabe Vincent,Gabe,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+12400074,1610612747,LAL,Los Angeles,1626174,Christian Wood,Christian,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+22400408,1610612747,LAL,Los Angeles,1642355,Bronny James,Bronny,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+22400408,1610612747,LAL,Los Angeles,1641721,Maxwell Lewis,Maxwell,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+22400408,1610612747,LAL,Los Angeles,1642439,Quincy Olivari,Quincy,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+22400408,1610612747,LAL,Los Angeles,1626156,D'Angelo Russell,D'Angelo,,DND - Injury/Illness,,,,,,,,,,,,,,,,,,,,
+22400408,1610612747,LAL,Los Angeles,1642422,Armel Traoré,Armel,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+22400644,1610612747,LAL,Los Angeles,1629003,Shake Milton,Shake,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+22400644,1610612747,LAL,Los Angeles,1629629,Cam Reddish,Cam,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+22400731,1610612747,LAL,Los Angeles,1642355,Bronny James,Bronny,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+22400731,1610612747,LAL,Los Angeles,1641998,Trey Jemison III,Trey,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+22400731,1610612747,LAL,Los Angeles,202693,Markieff Morris,Markieff,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+22400731,1610612747,LAL,Los Angeles,1642422,Armel Traoré,Armel,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+22401117,1610612747,LAL,Los Angeles,1642355,Bronny James,Bronny,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+22401117,1610612747,LAL,Los Angeles,1642261,Dalton Knecht,Dalton,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+22401117,1610612747,LAL,Los Angeles,1631132,Christian Koloko,Christian,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+22401117,1610612747,LAL,Los Angeles,203458,Alex Len,Alex,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+22401117,1610612747,LAL,Los Angeles,1629003,Shake Milton,Shake,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+22401117,1610612747,LAL,Los Angeles,202693,Markieff Morris,Markieff,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,

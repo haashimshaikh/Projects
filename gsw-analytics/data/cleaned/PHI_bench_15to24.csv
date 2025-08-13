@@ -1,0 +1,15 @@
+GAME_ID,TEAM_ID,TEAM_ABBREVIATION,TEAM_CITY,PLAYER_ID,PLAYER_NAME,NICKNAME,START_POSITION,COMMENT,MIN,FGM,FGA,FG_PCT,FG3M,FG3A,FG3_PCT,FTM,FTA,FT_PCT,OREB,DREB,REB,AST,STL,BLK,TO,PF,PTS,PLUS_MINUS
+22400864,1610612755,PHI,Philadelphia,1627824,Guerschon Yabusele,Guerschon,,,27:09,5.0,8.0,0.625,5.0,7.0,0.714,3.0,4.0,0.75,1.0,5.0,6.0,5.0,0.0,0.0,2.0,1.0,18.0,4.0
+22400467,1610612755,PHI,Philadelphia,1627824,Guerschon Yabusele,Guerschon,,,31:26,4.0,6.0,0.667,1.0,2.0,0.5,4.0,4.0,1.0,2.0,4.0,6.0,2.0,0.0,0.0,0.0,2.0,13.0,-20.0
+22400467,1610612755,PHI,Philadelphia,1641741,Ricky Council IV,Ricky,,,26:48,4.0,8.0,0.5,1.0,4.0,0.25,3.0,4.0,0.75,1.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,12.0,-10.0
+22400467,1610612755,PHI,Philadelphia,1630288,Jeff Dowtin Jr.,Jeff,,,15:07,2.0,5.0,0.4,0.0,0.0,0.0,2.0,4.0,0.5,0.0,1.0,1.0,2.0,0.0,0.0,0.0,2.0,6.0,-9.0
+22400864,1610612755,PHI,Philadelphia,1630288,Jeff Dowtin Jr.,Jeff,,,13:49,2.0,3.0,0.667,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,5.0,12.0
+22400467,1610612755,PHI,Philadelphia,1642348,Justin Edwards,Justin,,,9:11,2.0,5.0,0.4,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,4.0,-4.0
+22400864,1610612755,PHI,Philadelphia,1642348,Justin Edwards,Justin,,,15:42,2.0,3.0,0.667,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,4.0,4.0,-1.0
+22400467,1610612755,PHI,Philadelphia,201569,Eric Gordon,Eric,,,14:18,1.0,2.0,0.5,1.0,2.0,0.5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,3.0,-10.0
+22400864,1610612755,PHI,Philadelphia,1629022,Lonnie Walker IV,Lonnie,,,5:39,1.0,2.0,0.5,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0,5.0
+22400467,1610612755,PHI,Philadelphia,202704,Reggie Jackson,Reggie,,,7:30,1.0,3.0,0.333,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,2.0,-5.0
+22400467,1610612755,PHI,Philadelphia,1641737,Adem Bona,Adem,,,9:11,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,0.0,1.0,2.0,1.0,2.0,0.0,-4.0
+22400864,1610612755,PHI,Philadelphia,1641737,Adem Bona,Adem,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+22400864,1610612755,PHI,Philadelphia,1630215,Jared Butler,Jared,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
+22400864,1610612755,PHI,Philadelphia,1641741,Ricky Council IV,Ricky,,DNP - Coach's Decision,,,,,,,,,,,,,,,,,,,,
